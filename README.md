@@ -19,7 +19,11 @@ Il permet de lancer simultanément :
 *   **Interface Moderne** : Design épuré avec fond d'écran intégré (système Base64) et bordures blanches élégantes.
 *   **Léger & Autonome** : Une fois converti en `.exe`, il ne nécessite aucune installation.
 
+## ETS2 Convoi Launcher ##
+[➡️ Télécharger la dernière version (EXE)](https://github.com/MrWolfTv/Launcher-Euro-Truck-Simulator-2/releases/download/V1.0/ETS2_Launcher.exe)
+
 ## 🚀 Installation et Utilisation
+
 1.  Lancez le fichier `ETS2_Launcher.exe`.
 2.  Lors du premier lancement, cliquez sur **Paramètres**.
 3.  Sélectionnez les fichiers exécutables (`.exe`) de vos logiciels de convoi.
