@@ -19,9 +19,6 @@ Il permet de lancer simultanément :
 *   **Interface Moderne** : Design épuré avec fond d'écran intégré (système Base64) et bordures blanches élégantes.
 *   **Léger & Autonome** : Une fois converti en `.exe`, il ne nécessite aucune installation.
 
-## ETS2 Convoi Launcher ##
-[➡️ Télécharger la dernière version (EXE)](https://github.com/MrWolfTv/Launcher-Euro-Truck-Simulator-2/releases/download/V1.0/ETS2_Launcher.exe)
-
 ## 🚀 Installation et Utilisation
 
 1.  Lancez le fichier `ETS2_Launcher.exe`.
@@ -34,6 +31,9 @@ Il permet de lancer simultanément :
 Comme ce programme est un script PowerShell converti en exécutable par un utilisateur indépendant, il est possible que Windows Defender affiche une alerte **SmartScreen**.
 *   **Pourquoi ?** Le fichier n'est pas signé numériquement (ce qui coûte très cher).
 *   **Solution** : Cliquez sur *Informations complémentaires* puis sur *Exécuter quand même*. Le code ne fait qu'exécuter des programmes déjà présents sur votre ordinateur.
+
+## 📥 ETS2 Convoi Launcher ##
+[➡️ Télécharger la dernière version (EXE)](https://github.com/MrWolfTv/Launcher-Euro-Truck-Simulator-2/releases/download/V1.0/ETS2_Launcher.exe)
 
 ---
 *Développé avec passion pour la communauté ETS2 par **MrWolfTv**.*
